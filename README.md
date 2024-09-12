@@ -17,14 +17,14 @@ Execute o seguinte comando para instalar as dependências do projeto:
 ``bash
 npm install
 
-###2. Executar o servidor
+### 2. Executar o servidor
 Inicie o servidor Express.js:
 
 ``bash
 npm start
 O servidor estará disponível em http://localhost:3000.
 
-###3. Endpoints
+### 3. Endpoints
 POST /signup
 
 Rota para registrar um novo usuário.
@@ -71,7 +71,7 @@ Resposta:
   ]
 }
 
-###Tecnologias Utilizadas
+### Tecnologias Utilizadas
 Node.js
 Express.js
 bcrypt
