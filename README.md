@@ -72,8 +72,8 @@ Resposta:
 }
 
 ### Tecnologias Utilizadas
-Node.js
-Express.js
-bcrypt
+- **Node.js
+- **Express.js
+- **bcrypt
 
 
